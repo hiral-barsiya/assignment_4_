@@ -1,0 +1,4 @@
+2. What is Normalization? 
+=>Normalization is the process of organizing the data in the database.
+
+->Use:minimize data modification errors, and simplify the query process.
